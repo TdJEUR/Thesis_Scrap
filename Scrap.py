@@ -1,1 +1,4 @@
-import numpy as np
+import numpy.random
+
+a = [1, 2, 3, 4]
+print(a[0])
